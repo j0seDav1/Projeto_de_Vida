@@ -62,10 +62,3 @@ body {
 @media screem and (min-width : 768px){
     .botoes{
        display: flex;
-    }
-.botao:first-child {
-    border-radius: 40px 0 0 0;
-}
-.botoes: lats-child{
-    border-radius: 0 40 px 0 0;
-}
